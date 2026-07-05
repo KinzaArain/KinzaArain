@@ -15,5 +15,5 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KinzaArain&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KinzaArain&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
 </p>
