@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Kinza 👋</h1>
 <p align="center">
-  I'm Computer Engineering undergrad fueled by endless curiosity and a dedication to minimalist aesthetics. By day, I try to learn and build full-stack projects, logic and debug code trying to pretend i understand every compiler error. By nigh, I'm a perpetual learner diving into new tech. When i'm not coding, you can usually find me chasing down raccoons and collecting gold bars in Talking Tom Gold Run like my life depends on it.
+  I'm Computer Engineering undergrad fueled by endless curiosity and a dedication to minimalist aesthetics. By day, I try to learn and build full-stack projects, logic and debug code trying to pretend i understand every compiler error. By night, I'm a perpetual learner diving into new tech. When i'm not coding, you can usually find me chasing down raccoons and collecting gold bars in Talking Tom Gold Run like my life depends on it.
 </p>
 
 <p align="center">
